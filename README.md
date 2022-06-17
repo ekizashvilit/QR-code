@@ -21,7 +21,7 @@ This is a simple and plain QR code website. Theres only a QR code card with some
 
 ### Links
 
-- Live Site URL: [QR code](https://your-live-site-url.com)
+- Live Site URL: [QR code](https://ekizashvilit.github.io/QR-code/)
 
 ## My process
 
